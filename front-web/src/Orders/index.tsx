@@ -4,7 +4,6 @@ import { toast } from 'react-toastify';
 import './styles.css';
 import 'react-toastify/dist/ReactToastify.css';
 
-import { ReactComponent as Logo} from './logo.svg';
 import StepsHeader from './StepsHeader';
 import ProductsList from './ProductsList';
 import { OrderLocationData, Product } from './types';
